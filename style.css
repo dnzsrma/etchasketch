@@ -1,0 +1,19 @@
+.grid-button{
+    background-color: white;
+    float:left;
+
+}
+.touched{
+    background-color: black;
+    float:left;
+}
+body{
+    background-color:gray;
+}
+#container{
+    height:502px;
+    width:502px;
+
+    border:solid black;
+    border-width: 1px 1px 1px 1px;
+}
